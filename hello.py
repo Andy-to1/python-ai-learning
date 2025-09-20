@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 我的第一个Python程序
-作者：[您的名字]
-日期：2024-01-01
+作者：Andy
+日期：2025-09-20
 """
 
 def main():
@@ -58,3 +58,4 @@ git push origin main
 
 # 如果是master分支
 git push origin master
+
